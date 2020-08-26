@@ -1,6 +1,6 @@
 model_config:
   concat_vl:
-    num_classes: 2
+    num_classes: 5
     dropout: 0.1
     image_encoder:
       type: resnet152
